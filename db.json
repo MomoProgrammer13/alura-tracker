@@ -1,0 +1,63 @@
+{
+  "projetos": [
+    {
+      "id": "1",
+      "nome": "Alura Tracker"
+    },
+    {
+      "id": "0366",
+      "nome": "ByteBank"
+    },
+    {
+      "id": "08b7",
+      "nome": "Estudando padrões de arquitetura"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": "1",
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      }
+    },
+    {
+      "id": "24ca",
+      "duracaoEmSegundos": 5,
+      "descricao": "Refatoração do vuex",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker"
+      }
+    },
+    {
+      "id": "9dc3",
+      "duracaoEmSegundos": 6,
+      "descricao": "Estudando padrões de projetos",
+      "projeto": {
+        "id": "0366",
+        "nome": "ByteBank"
+      }
+    },
+    {
+      "id": "2e93",
+      "duracaoEmSegundos": 3,
+      "descricao": "Estudos pessoais parte 1",
+      "projeto": {
+        "id": "1",
+        "nome": "Alura Tracker"
+      }
+    },
+    {
+      "id": "20d4",
+      "duracaoEmSegundos": 5,
+      "descricao": "Teste",
+      "projeto": {
+        "id": "08b7",
+        "nome": "Estudando padrões de arquitetura"
+      }
+    }
+  ]
+}
